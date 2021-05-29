@@ -7,5 +7,3 @@
  I intend to become a full stack developer 🎯
  I just love what I do.💙💙💙 
   
-<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
-
