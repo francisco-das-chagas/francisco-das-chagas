@@ -29,5 +29,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-das-chagas&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ##
- ![Snake animation](https://github.com/francisco-das-chagas/fracisco-das-chagas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/francisco-das-chagas/francisco-das-chagas/blob/output/github-contribution-grid-snake.svg)
